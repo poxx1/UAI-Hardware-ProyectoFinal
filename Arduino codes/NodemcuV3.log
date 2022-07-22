@@ -1,0 +1,15 @@
+NodemcuV3
+
+1. Device ID (thing/board)
+3c73af86-45ff-4fee-9228-94614d7bce5c
+
+2. Secret Key
+ZK5ADN600XPSW3OIXPJK
+
+Variables
+1. signalVoltage : voltage.
+2. signalFrecuency : frecuency.
+
+Wifi settings
+SSID: Poxi
+Password: 01234567
